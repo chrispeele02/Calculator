@@ -20,21 +20,25 @@
         android:orientation="horizontal">
 
         <Button
+            android:id="@+id/bC"
             android:layout_width="80dp"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:text="C"/>
         <Button
+            android:id="@+id/bPlusMinus"
             android:layout_width="80dp"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:text="+/-"/>
         <Button
+            android:id="@+id/bPercent"
             android:layout_width="80dp"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:text="%"/>
         <Button
+            android:id="@+id/bDivison"
             android:layout_width="80dp"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
@@ -47,21 +51,25 @@
         android:orientation="horizontal">
 
         <Button
+            android:id="@+id/b7"
             android:layout_width="80dp"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:text="7"/>
         <Button
+            android:id="@+id/b8"
             android:layout_width="80dp"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:text="8"/>
         <Button
+            android:id="@+id/b9"
             android:layout_width="80dp"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:text="9"/>
         <Button
+            android:id="@+id/bX"
             android:layout_width="80dp"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
@@ -74,21 +82,25 @@
         android:orientation="horizontal">
 
         <Button
+            android:id="@+id/b4"
             android:layout_width="80dp"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:text="4"/>
         <Button
+            android:id="@+id/b5"
             android:layout_width="80dp"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:text="5"/>
         <Button
+            android:id="@+id/b6"
             android:layout_width="80dp"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:text="6"/>
         <Button
+            android:id="@+id/bMinus"
             android:layout_width="80dp"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
@@ -101,21 +113,25 @@
         android:orientation="horizontal">
 
         <Button
-            android:layout_width="80dp"
-            android:layout_height="wrap_content"
-            android:layout_margin="10dp"
-            android:text="1"/>
-        <Button
-            android:layout_width="80dp"
-            android:layout_height="wrap_content"
-            android:layout_margin="10dp"
-            android:text="2"/>
-        <Button
+            android:id="@+id/b3"
             android:layout_width="80dp"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:text="3"/>
         <Button
+            android:id="@+id/b2"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="2"/>
+        <Button
+            android:id="@+id/b1"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="1"/>
+        <Button
+            android:id="@+id/bPlus"
             android:layout_width="80dp"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
@@ -128,16 +144,19 @@
         android:orientation="horizontal">
 
         <Button
+            android:id="@+id/b0"
             android:layout_width="180dp"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:text="0"/>
         <Button
+            android:id="@+id/b."
             android:layout_width="80dp"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:text="."/>
         <Button
+            android:id="@+id/bE"
             android:layout_width="80dp"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
