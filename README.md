@@ -8,6 +8,7 @@ The following **required** functionality is completed:
 
 * [ ] User sees a basic calculator app
 * [ ] User can enter numbers and operations similar to that of an iPhone calculator
+* [ ] Shows calculator icon
 
 ## Video Walkthrough
 
